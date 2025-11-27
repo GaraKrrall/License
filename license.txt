@@ -3,7 +3,7 @@ This License may be modified or revoked at any time at the SOLE DISCRETION of Ga
 This License was last modified on November 27, 2025.
 
 
-## ------------------------[PERMITTED USES]------------------------
+------------------------[PERMITTED USES]------------------------
 
 
 * You are permitted to freely modify or edit the code of these licensed projects for personal use or for use within modpacks, provided that you do not redistribute the modified code.
@@ -41,3 +41,4 @@ This License was last modified on November 27, 2025.
 Given that GaraKrral holds full copyright over all parts of these licensed projects, it must be assumed that any portion of this License may be individually overridden with the explicit permission of GaraKrral.
 
 GaraKrral reserves the right, at any time and for any reason (whether personal or commissioned) to create and distribute modified versions of these licensed projects or their derivatives.
+
